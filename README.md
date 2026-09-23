@@ -1,10 +1,8 @@
 <div align="center">
-## Say hi to the ultimate Apple Developer tools plugin engine
-
-  
-  <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/3ccc0946-550d-4f84-9cbf-0358b96e166c" />
-
+  <h2>Say hi to the ultimate Apple Developer tools plugin engine</h2>
 </div>
+
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/7bef045b-e32c-488e-ac75-78b7312167e1" />
 
 An AI-ready, platform-agnostic developer plugin and automation engine designed for the Apple software ecosystem. Built as a lightweight Command Line Interface (CLI), this tool can be seamlessly embedded into **Xcode**, **VS Code**, **Swift Playgrounds**, or macOS system-wide automation workflows.
 

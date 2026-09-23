@@ -1,5 +1,5 @@
 <div align="center">
-## Say hi to the ultimate Apple Developer tools plugin engine
+# Say hi to the ultimate Apple Developer tools plugin engine
 
   <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/3ccc0946-550d-4f84-9cbf-0358b96e166c" />
 

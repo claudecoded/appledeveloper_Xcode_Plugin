@@ -1,0 +1,14 @@
+# Pasta de compilação do Swift
+.build/
+Build/
+DerivedData/
+
+# Arquivos de configuração do Xcode do usuário
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+.orbit/
+
+# Arquivos invisíveis do sistema operacional macOS
+.DS_Store
+.AppleDouble
+.LSOverride
